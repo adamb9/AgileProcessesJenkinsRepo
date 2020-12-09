@@ -1,5 +1,3 @@
-import sys
-
 import datetime
 print("Hello world!")
 now = datetime.datetime.now()
